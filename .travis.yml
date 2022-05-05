@@ -12,7 +12,7 @@ deploy:
   secret_access_key: $AWS_SECRET_KEY
   region: "us-east-2"
   app: "static-app-template"
-  env: "Staticpptemplate-env"
+  env: "Staticapptemplate-env"
   bucket_name: "elasticbeanstalk-us-east-2-524057441336"
   bucket_path: "static-app-template"
   on:
