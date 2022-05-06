@@ -1,5 +1,6 @@
 # An App Made Up Of Only Static Files
-[app link](http://staticapptemplate-env.eba-uftbi852.us-east-2.elasticbeanstalk.com/)
+
+http://static.novskytech.com/
 
 ```
 docker build -t static-nginx .                                                           ─╯
